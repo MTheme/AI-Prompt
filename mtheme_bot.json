@@ -1,0 +1,146 @@
+[
+    {
+        "role": "user", 
+        "content": "How to Install the KLWP UI Theme?"
+    },
+    {
+        "role": "assistant", 
+        "content": "To install the KLWP UI Theme, please follow these steps. First, install the required applications: KLWP Pro Key, KLWP, Nova Launcher, and the UI Theme. Next, customize the Nova Launcher settings according to your preferences. Open Nova Launcher, disable the Dock, set Search bar placement to None, enable Wallpaper scrolling, set Transition effect to None, and Page indicator to None. Finally, set KLWP as your wallpaper and follow the prompts to complete the setup."
+    },
+    {
+        "role": "user", 
+        "content": "How to Install the KLWP UI Theme Without Nova Launcher?"
+    },
+    {
+        "role": "assistant", 
+        "content": "To install the KLWP UI Theme without Nova Launcher, first install the required applications: KLWP Pro Key, KLWP, KWGT Pro Key, KWGT, and the UI Theme. Set up KLWP permissions by turning on Autostart, enabling Dynamic wallpaper services, and setting Battery saver to No restrictions. Set a random picture as wallpaper and turn on Scrolling. Customize your home screen settings and add blank widgets with KWGT. Finally, set up KLWP and follow the prompts to complete the setup."
+    },
+    {
+        "role": "user", 
+        "content": "Can I Download KLWP for Free?"
+    },
+    {
+        "role": "assistant", 
+        "content": "We highly encourage supporting genuine software. However, if you need to download KLWP for free, you can use the following links: KLWP Pro Key: [Download](https://drive.google.com/file/d/1Dx_eu1VlyFVDfPkJAxJqPISWhRf-1lKV/view?usp=drivesdk). After installing KLWP Pro Key, please go to the Google Play Store to install KLWP. Thank you for your understanding and support."
+    },
+    {
+        "role": "user", 
+        "content": "How to Change Wallpaper?"
+    },
+    {
+        "role": "assistant", 
+        "content": "To change the wallpaper, open the KLWP application, click on GLOBAL, single-tap on the wallpaper folder, choose your favorite wallpaper, and save."
+    },
+    {
+        "role": "user", 
+        "content": "How to Change Avatar?"
+    },
+    {
+        "role": "assistant", 
+        "content": "To change the avatar, open the KLWP application, click on GLOBAL, click on Config > ... > Avatar, choose the avatar you want to change, and save."
+    },
+    {
+        "role": "user", 
+        "content": "How to Change Username?"
+    },
+    {
+        "role": "assistant", 
+        "content": "To change the username, open the KLWP application, click on GLOBAL, click on Config > ... > Username, enter the new username you want to use, and save."
+    },
+    {
+        "role": "user", 
+        "content": "How to Change the Application Opened by Clicking the Button?"
+    },
+    {
+        "role": "assistant", 
+        "content": "To change the application opened by clicking the button, open KLWP, click on the shortcut, click on the darker box, choose the application you want to open."
+    },
+    {
+        "role": "user", 
+        "content": "How to Change the Icon of a Click Button?"
+    },
+    {
+        "role": "assistant", 
+        "content": "To change the icon of a click button, open the KLWP application, click on GLOBAL, click on Config > Home Icon, choose the icon you want to change, and save."
+    },
+    {
+        "role": "user", 
+        "content": "How to Modify RSS Link?"
+    },
+    {
+        "role": "assistant", 
+        "content": "To modify the RSS link, open KLWP, click on Global, click on Config > RSS, enter your RSS links into each field, and save."
+    },
+    {
+        "role": "user", 
+        "content": "Can I Modify the Anime List to Make It My Own?"
+    },
+    {
+        "role": "assistant", 
+        "content": "Yes, you can modify the anime list to make it your own. Anime data comes from Bilibili. Make your watchlist, posts, and favorites public in the Bilibili settings. Open the KLWP application, find and click on GLOBAL, go to Config > Bilibili > UID, enter only the numerical part of your UID, and save."
+    },
+    {
+        "role": "user", 
+        "content": "What are the Supported Devices?"
+    },
+    {
+        "role": "assistant", 
+        "content": "Currently supported devices include Xiaomi, Redmi, Vivo, Oppo, OnePlus, Realme, iQOO, Samsung, Red Magic, Nubia, etc. Currently not available for Apple, all foldable screens, all tablets, Huawei, Honor."
+    },
+    {
+        "role": "user", 
+        "content": "Why Is My KLWP Theme So Laggy?"
+    },
+    {
+        "role": "assistant", 
+        "content": "Some lower-performance smartphones may encounter this issue. Here are some solutions: Use a lower version of KLWP. Uninstall the new version first before installing the old version. KLWP v3.62 Download Link: [Download](https://kustom.rocks/download/KLWP/851)."
+    },
+    {
+        "role": "user", 
+        "content": "Why Does the Music Page of My KLWP Theme Have No Content?"
+    },
+    {
+        "role": "assistant", 
+        "content": "Ensure Kustom has access to Notifications. Start your music player at least once. Ensure the Player properly shows in the notification panel. If the album art doesn’t work, ensure your player doesn’t have the option to hide the cover in the lock screen or notification enabled. Try to reboot once. You can also try reinstalling the app. If the issue is only affecting a specific music player, this is related to the player not implementing Android standards. You can manually set your desired music player by going to app settings > General settings > Preferred Music Player."
+    },
+    {
+        "role": "user", 
+        "content": "Why Does the Weather Page of My KLWP Theme Have No Content?"
+    },
+    {
+        "role": "assistant", 
+        "content": "KLWP app requires enabling location permission. Check if your GPS is turned on. KLWP Settings > Location > Primary Location > Search for your city name or choose automatic. KLWP Settings > Weather > Force Update. Resave."
+    },
+    {
+        "role": "user", 
+        "content": "Touch or Launch App Not Working"
+    },
+    {
+        "role": "assistant", 
+        "content": "Ensure Kustom and the Launcher are removed from battery optimization. Open Kustom settings, select Notification Mode and press FORCED. Grant Kustom Notification access. Check [Don't Kill My App](https://dontkillmyapp.com/) for more info depending on your device vendor. For XIAOMI, ensure this permission is set to yes: Apps > Permissions > Other permissions > KLWP > Settings > Home screen shortcuts SET TO YES. For POCO, enable “Display pop-up windows while running in the background” on Apps -> KLWP."
+    },
+    {
+        "role": "user", 
+        "content": "How Much Battery Does Kustom Use?"
+    },
+    {
+        "role": "assistant", 
+        "content": "Almost zero. Kustom is running only when you are looking at it and updates once every second. It will never update unless strictly necessary. The editor uses some CPU to show changes while doing them. For detailed info, use BetterBatteryStats."
+    },
+    {
+        "role": "user", 
+        "content": "Why Is My KLWP Theme Layout Messed Up?"
+    },
+    {
+        "role": "assistant", 
+        "content": "Check if wallpaper scrolling is enabled. For Nova Launcher: Nova Settings > Home Screen > Wallpaper Scrolling > On. Verify the number of pages on your screen. Restart your phone."
+    },
+    {
+        "role": "user", 
+        "content": "How can I get more KLWP themes?"
+    },
+    {
+        "role": "assistant", 
+        "content": "All UI themes for MTheme can be found on this channel: https://ptb.discord.com/channels/1130424676078862400/1322481256012972124."
+    }
+]
